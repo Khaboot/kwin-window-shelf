@@ -1,0 +1,7 @@
+{
+    "KPlugin": {
+        "Description": "Configure Window Shelf",
+        "Id": "kwin4_effect_window_shelf_config",
+        "Name": "Window Shelf Settings"
+    }
+}

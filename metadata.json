@@ -1,0 +1,11 @@
+{
+    "KPlugin": {
+        "Category": "Appearance",
+        "Description": "Show live previews of open windows at the screen edge",
+        "Description[cs]": "Zobrazuje živé náhledy otevřených oken u okraje obrazovky",
+        "Id": "kwin4_effect_window_shelf",
+        "License": "GPL-3.0-or-later",
+        "Name": "Window Shelf"
+    },
+    "X-KDE-ConfigModule": "kwin4_effect_window_shelf_config"
+}
